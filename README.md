@@ -6,6 +6,10 @@ This is the solution to all your problems when deciding between spending more mo
 
 ## Usage
 
+```bash
+uv pip install -r requirements.txt
+```
+
 ## Examples
 
 ## Contributing
